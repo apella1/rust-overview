@@ -11,6 +11,10 @@
 - Character - represented using single quotes
 - String - represented using double quotes
 
+## Variables
+
+- Are immutable by default
+
 ## Progress
 
 - 10:11
